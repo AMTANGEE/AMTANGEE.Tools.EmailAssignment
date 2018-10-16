@@ -11,7 +11,7 @@ This tool allows to assign unassigned emails to exisiting contacts
 ## Feedback 
 
 * Send us an email at support@amtangee.com
-* File an issue here in [GitHub](https://github.com/AMTANGEE/tools.notebookmaintenance/issues)
+* File an issue here in [GitHub](https://github.com/AMTANGEE/Tool.EmailAssignment/issues)
 
 ## License
 
