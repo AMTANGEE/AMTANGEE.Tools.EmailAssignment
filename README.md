@@ -5,8 +5,8 @@ This tool allows to assign unassigned emails to exisiting contacts
 ## Requirements
 
 * AMTANGEE Partner Key for signing the assembly
-* .NET Framework 2.0
-* AMTANGEE Version >= 5.6
+* .NET Framework 4.6.1
+* AMTANGEE Version >= 6.0
 
 ## Feedback 
 
